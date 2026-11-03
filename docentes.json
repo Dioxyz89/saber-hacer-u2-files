@@ -1,0 +1,33 @@
+{
+  "institucion": "Universidad Tecnológica de Coahuila",
+  "edificio": 2,
+  "actualizado": "2026-10-28T00:30:50",
+  "total": 5,
+  "docentes": [
+    {
+      "nombre": "Mauricio de los angeles reyes",
+      "especialidad": "Matematicas",
+      "numero_empleado": "120987"
+    },
+    {
+      "nombre": "Maria del jesus",
+      "especialidad": "Redes",
+      "numero_empleado": "122562"
+    },
+    {
+      "nombre": "Carlos del socorro tellez",
+      "especialidad": "Informartica",
+      "numero_empleado": "124590"
+    },
+    {
+      "nombre": "Julissa perez cruz",
+      "especialidad": "Base de datos",
+      "numero_empleado": "125630"
+    },
+    {
+      "nombre": "Leonora Castillo Juarez",
+      "especialidad": "Direccion de proyectos",
+      "numero_empleado": "128406"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<docentes institucion="Universidad Tecnológica de Coahuila" edificio="2" actualizado="2026-10-28T00:30:50" total="5">
+  <docente>
+    <numero_empleado>120987</numero_empleado>
+    <nombre>Mauricio de los angeles reyes</nombre>
+    <especialidad>Matematicas</especialidad>
+  </docente>
+  <docente>
+    <numero_empleado>122562</numero_empleado>
+    <nombre>Maria del jesus</nombre>
+    <especialidad>Redes</especialidad>
+  </docente>
+  <docente>
+    <numero_empleado>124590</numero_empleado>
+    <nombre>Carlos del socorro tellez</nombre>
+    <especialidad>Informartica</especialidad>
+  </docente>
+  <docente>
+    <numero_empleado>125630</numero_empleado>
+    <nombre>Julissa perez cruz</nombre>
+    <especialidad>Base de datos</especialidad>
+  </docente>
+  <docente>
+    <numero_empleado>128406</numero_empleado>
+    <nombre>Leonora Castillo Juarez</nombre>
+    <especialidad>Direccion de proyectos</especialidad>
+  </docente>
+</docentes>
